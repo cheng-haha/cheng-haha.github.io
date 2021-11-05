@@ -10,9 +10,7 @@
 
 [链接](https://cheng-haha.github.io/MsTest/NnuQuestion)
 
-###  Mozilla前端实践
 
-笔记：[语雀地址](https://www.yuque.com/cheng-f4utk/avuz7f/iy56u5)
 
 
 
