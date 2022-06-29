@@ -1,7 +1,7 @@
 ## Welcome to Cheng's Pages 
 
 
-### Githab
+### Github
 [链接](https://github.com/cheng-haha)
 
 
